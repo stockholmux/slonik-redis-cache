@@ -1,0 +1,24 @@
+{
+  "name": "slonik-redis-cache",
+  "version": "1.0.0",
+  "description": "declarative caching with Redis and PostgreSQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stockholmux/slonik-redis-cache.git"
+  },
+  "keywords": [
+    "PostgreSQL",
+    "redis",
+    "slonik"
+  ],
+  "author": "Kyle Davis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stockholmux/slonik-redis-cache/issues"
+  },
+  "homepage": "https://github.com/stockholmux/slonik-redis-cache#readme"
+}
